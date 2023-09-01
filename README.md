@@ -1,8 +1,8 @@
 These are some of my projects in Machine Learning:
 
-Ensemble Methods
+   Ensemble Methods
 
-   Random Forest and XGBoost model on breast cancer dataset
+       Random Forest and XGBoost model on breast cancer dataset
 
 
    
